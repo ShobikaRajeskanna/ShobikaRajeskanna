@@ -4,7 +4,7 @@
 
 **I build software, get it running in the cloud, and use its data to make it better.**
 
-Software developer · Open to new roles · [LinkedIn](https://www.linkedin.com/in/TODO) · [Email](mailto:TODO)
+Software developer · Open to new roles · [LinkedIn](https://www.linkedin.com/in/shobika-rajeskanna-4972861a1/?isSelfProfile=true) · [Email](mailto:shobikarajeskanna@gmail.com)
 
 </div>
 
