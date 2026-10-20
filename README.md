@@ -2,8 +2,7 @@
 
 **Software Developer | Platform Engineering** · Java · Cloud · Kubernetes · APIs
 
-I build backend services and APIs in Java and the cloud platforms they run on, using containers, Kubernetes and Google Cloud. I care about reliable, automated infrastructure that makes developers' lives easier. I hold a Postgraduate Diploma in Advanced Computer Science.
-
+I build backend services and APIs in Java and the cloud platforms they run on, using containers, Kubernetes and Google Cloud. I care about reliable, automated infrastructure that makes developers' lives easier.
 ### Tech stack
 
 **Languages:** Java · SQL · JavaScript  
