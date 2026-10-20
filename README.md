@@ -2,8 +2,7 @@
 
 **Software Developer | Platform Engineering** · Java · Cloud · Kubernetes · APIs
 
-I build backend services and APIs in Java and the cloud platforms they run on, using containers, Kubernetes and Google Cloud. I care about reliable, automated infrastructure that makes developers' lives easier.
-### Tech stack
+I build backend services and APIs in Java and the cloud platforms they run on, using containers, Kubernetes and Google Cloud. 
 
 **Languages:** Java · SQL · JavaScript  
 **Backend & APIs:** REST APIs · Spring Boot · Microservices  
