@@ -4,6 +4,7 @@
 
 I build backend services and APIs in Java and the cloud platforms they run on, using containers, Kubernetes and Google Cloud. 
 
+### Tech Stack
 **Languages:** Java · SQL · JavaScript  
 **Backend & APIs:** REST APIs · Spring Boot · Microservices  
 **Platform & Cloud:** Google Cloud Platform · Kubernetes · Docker  
