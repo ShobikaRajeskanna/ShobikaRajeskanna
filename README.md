@@ -1,4 +1,4 @@
-# Hi, I'm Shobika 
+# Hi, I'm Shobika Rajeskanna
 
 **Software Developer | Platform Engineering** · Java · Cloud · Kubernetes · APIs
 
